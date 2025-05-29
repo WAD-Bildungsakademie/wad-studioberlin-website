@@ -8,4 +8,4 @@ Gehostet bei Hosteurope --> s. Websitehosting WAD
 
 evtl. Einbindung von kalender.digital
 
-
+Bilder --> Google Drive Phase 2
