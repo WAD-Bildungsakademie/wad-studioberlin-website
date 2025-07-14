@@ -16,3 +16,6 @@
 # log folder and log files
 /redaxo/data/log/*
 *.log
+
+# shaack specific
+/node_modules
